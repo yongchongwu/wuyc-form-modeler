@@ -1,0 +1,7 @@
+public
+dist
+static
+node_modules
+**/dist
+**/node_modules
+**/*.d.ts
