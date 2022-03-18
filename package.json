@@ -40,15 +40,17 @@
   "author": "wuyc",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.18.1",
-    "core-js": "^3.6.5",
-    "js-cookie": "2.2.0",
-    "vue": "^2.6.12",
-    "element-ui": "^2.15.7",
-    "vuedraggable": "2.24.3",
     "@form-create/component-wangeditor": "^2.5.15",
     "@form-create/element-ui": "^2.5.17",
-    "@form-create/utils": "^2.5.17"
+    "@form-create/utils": "^2.5.17",
+    "axios": "0.18.1",
+    "core-js": "^3.6.5",
+    "dayjs": "^1.11.0",
+    "element-ui": "^2.15.7",
+    "js-cookie": "2.2.0",
+    "lodash": "^4.17.21",
+    "vue": "^2.6.12",
+    "vuedraggable": "2.24.3"
   },
   "publishConfig": {
     "access": "public"
