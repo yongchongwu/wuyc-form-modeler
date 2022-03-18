@@ -1,8 +1,7 @@
 <template>
   <div>
-    <h1>{{ msgStr }}</h1>
     <p>
-      Start by not writing any code.
+      {{ msgStr }}
     </p>
     <el-button @click="changeMsg">默认按钮</el-button>
   </div>

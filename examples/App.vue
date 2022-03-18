@@ -13,7 +13,7 @@ export default {
     name: 'app',
     data() {
         return {
-            msg:'Getting Started'
+            msg:'Start by not writing any code.'
         };
     },
     watch: {
