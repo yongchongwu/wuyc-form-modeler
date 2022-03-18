@@ -1,12 +1,3 @@
-/*
- * @Author       : djkloop
- * @Date         : 2021-04-05 12:16:00
- * @LastEditors  : djkloop
- * @LastEditTime : 2021-04-05 12:35:07
- * @Description  : 头部注释
- * @FilePath     : /build/utils/isExternal.js
- */
-
 const not_externals = [
     'vue',
     'Vue',

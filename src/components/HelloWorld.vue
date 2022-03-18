@@ -1,9 +1,8 @@
 <template>
-  <div class="hello">
+  <div>
     <h1>{{ msg }}</h1>
     <p>
-      Start by not writing any code.<br>
-      No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+      Start by not writing any code.
     </p>
   </div>
 </template>
@@ -18,7 +17,5 @@ export default {
 </script>
 
 <style scoped>
-h3 {
-  margin: 40px 0 0;
-}
+
 </style>
