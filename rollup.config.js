@@ -17,7 +17,7 @@ const cwd = __dirname;
 
 const globals = {
     vue: 'Vue',
-    ELEMENT: 'element-ui'
+    ElementUI: 'element-ui'
 };
 
 module.exports = {
